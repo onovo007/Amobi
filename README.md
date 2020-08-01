@@ -1,1 +1,1 @@
-# COVID-19 datasests
+# Simulated outcomes from MCMC algorithm
